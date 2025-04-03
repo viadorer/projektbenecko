@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /node_modules/
 
-Sitemap: https://www.chalet-sumava.cz/sitemap.xml
+Sitemap: https://www.projektbenecko.cz/sitemap.xml
